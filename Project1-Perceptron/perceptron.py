@@ -98,4 +98,4 @@ plt.grid(True)
 plt.tight_layout()
 plt.savefig('error_graph.png')  # Saves the graph as image
 plt.show()
-print("\nGraph saved as 'error_graph.pngs
+print("\nGraph saved as 'error_graph.png'")
